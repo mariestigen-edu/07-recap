@@ -82,9 +82,11 @@ Relevant info
 
 ## Docker i GitHub actions 
 
-* Se at du kan lage en GitHub actions workflow som bygger og pusher container image til ECR
+* Se at du kan lage en GitHub actions workflow som bygger et container image  og pusher til ECR
 
+Relevant info
 
+* https://github.com/glennbechdevops/spring-docker-dockerhub
 
 
 
