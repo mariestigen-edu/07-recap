@@ -73,7 +73,7 @@ Relevant info
 * https://github.com/glennbechdevops/spring-docker-dockerhub
 * https://docs.docker.com/build/building/multi-stage/
 
-## Docker ECR og 
+## Docker ECR og Docker Hub 
 
 * Sjekk at du har konto på Dockerhub 
 * Prøv å pusher docker images dit fra Cloud 9 til Dockerhub 
